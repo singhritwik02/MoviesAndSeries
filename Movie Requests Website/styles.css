@@ -1,0 +1,21 @@
+@font-face {
+    font-family: quicksandSemiBold;
+    src: url(quicksand_semibold);
+}
+#topBar{
+    width: 100%;
+    height: 10%;
+    background-color: #262323;
+    margin: 0px;    
+    padding: 0px;
+    border:0px;
+    display: flex;
+    flex-direction: row;
+
+}
+#topBarLogo{
+    width: 100%;
+    height:auto;
+    margin: 16px;
+    align-self: center;
+}

@@ -1,0 +1,11 @@
+<svg id="retro_icon" xmlns="http://www.w3.org/2000/svg" width="23.796" height="19.322" viewBox="0 0 23.796 19.322">
+  <path id="Path_1" data-name="Path 1" d="M36.627.954c3.026,0,5.288,1.254,5.288,2.375S39.653,5.7,36.627,5.7,31.339,4.45,31.339,3.329,33.6.954,36.627.954m0-.954c-3.447,0-6.242,1.49-6.242,3.329s2.794,3.329,6.242,3.329,6.242-1.49,6.242-3.329S40.074,0,36.627,0Z" transform="translate(-19.073 0)" fill="#fff"/>
+  <path id="Path_2" data-name="Path 2" d="M42.868,3.329C42.868,1.49,40.074,0,36.627,0s-6.242,1.49-6.242,3.329a2.013,2.013,0,0,0,.39,1.149V16.2c0,1.723,2.62,3.121,5.851,3.121s5.851-1.4,5.851-3.121V4.478A2.013,2.013,0,0,0,42.868,3.329ZM36.627.954c3.026,0,5.288,1.254,5.288,2.375S39.653,5.7,36.627,5.7,31.339,4.45,31.339,3.329,33.6.954,36.627.954Zm0,17.412c-3.033,0-4.9-1.261-4.9-2.164V5.39a9,9,0,0,0,4.9,1.267,9.006,9.006,0,0,0,4.9-1.267V16.2C41.522,17.105,39.659,18.366,36.627,18.366Z" transform="translate(-19.073)" fill="#fff"/>
+  <g id="Group_2" data-name="Group 2" transform="translate(16.774 2.913)">
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="0.78" cy="0.416" rx="0.78" ry="0.416" fill="#fff"/>
+  </g>
+  <path id="Path_3" data-name="Path 3" d="M13.99,1.607H.975A.975.975,0,0,0,0,2.582V15.065a.975.975,0,0,0,.975.975H11.7V5.487a2.014,2.014,0,0,1-.39-1.149C11.313,3.206,12.373,2.208,13.99,1.607ZM3.511,15.26H1.95V13.7h1.56Zm0-11.313H1.95V2.387h1.56Zm3.9,11.313H5.851V13.7h1.56Zm0-11.313H5.851V2.387h1.56Zm3.9,11.313H9.752V13.7h1.56Zm0-11.313H9.752V2.387h1.56Z" transform="translate(0 -1.009)" fill="#fff"/>
+  <line id="Line_1" data-name="Line 1" y2="1.56" transform="translate(16.774 8.01)" fill="none" stroke="#ba00ff" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line id="Line_2" data-name="Line 2" y2="3.901" transform="translate(18.334 8.01)" fill="none" stroke="red" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line id="Line_3" data-name="Line 3" y2="12.483" transform="translate(14.824 5.669)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>
